@@ -1,0 +1,3 @@
+[submodule "Mandrill"]
+	path = Mandrill
+	url = https://github.com/rikardolajos/Mandrill.git
