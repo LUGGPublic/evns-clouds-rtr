@@ -41,4 +41,4 @@ To run the project, change to the binary output folder and run the executable fi
 ## Resources
 
 One dataset will be downloaded as part of the CMake initialization from Lund University's server [Link to resources (136 MB)](https://fileadmin.cs.lth.se/graphics/research/papers/2026/environmental_volumetric_neural_shading_of_clouds_for_real_time_rendering/evns_clouds_rtr_resources.zip).
-An example of how to setup Blender, as described in section 3.2 in the paper, is provided here [Link to Blender file using Walt Disney Animation Studio Cloud (315 MB, CC 3.0 BY-SA)](https://fileadmin.cs.lth.se/graphics/research/papers/2026/environmental_volumetric_neural_shading_of_clouds_for_real_time_rendering/wdas_mesh_.zip)
+An example of how to setup Blender, as described in section 3.2 in the paper, is provided here [Link to Blender file using Walt Disney Animation Studio Cloud (315 MB, CC 3.0 BY-SA)](https://fileadmin.cs.lth.se/graphics/research/papers/2026/environmental_volumetric_neural_shading_of_clouds_for_real_time_rendering/wdas_mesh.zip)
